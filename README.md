@@ -1,5 +1,7 @@
+
 <img width="742" height="324" alt="image" src="https://github.com/user-attachments/assets/2ffa9cbb-214f-4f0d-b85a-ed1ad49155a8" />
 
+<img width="973" height="665" alt="image" src="https://github.com/user-attachments/assets/c7f1c097-a9c3-4b4d-8c7b-aaf95fb85641" />
 
 
 # Event-Driven Big Data Pipeline
